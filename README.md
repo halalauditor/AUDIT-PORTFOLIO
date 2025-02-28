@@ -11,7 +11,7 @@ I am an Independent Web3 security researcher focusing on DeFi.
  ## Contact 
  - **[Twitter](https://twitter.com/halalauditor)**
  - **[Discord](https://discord.com/users/https://discord.com/channels/@me)**
- -  **[Telegram](https://telegram.com/halalauditor)**
+ -  **[Telegram](https://t.me/halalauditor)**
 
  -  ## Audit Contests
      
